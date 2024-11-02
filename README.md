@@ -12,22 +12,26 @@
 - Member 3: Sidharth M - Cochin University of Engineering Kuttanad
 
 ### Project Description
-Crazy CAPTCHA is an engaging CAPTCHA application designed to enhance user interaction while ensuring security against bots. It incorporates visual and auditory elements to challenge users creatively.
+Bot,Welcome to the Bot project It is basically an chatbot! This is a fun and interactive chatbot built with React that communicates in jest and nonsense designed to entertain users with jokes and witty responses
+
 
 ### The Problem (that doesn't exist)
-Have you ever encountered a CAPTCHA that was just too easy? We aim to eliminate the boredom of repetitive CAPTCHA challenges and make them more fun and engaging!
+The main problem that your chatbot addresses is the lack of light-hearted, humorous interaction in traditional chatbots, which often focus on providing serious answers or customer support. Many people seek fun and engaging conversations to lighten their mood, and a chatbot that responds with jest and nonsense fills that gap, offering an alternative to mundane interactions.
+
 
 ### The Solution (that nobody asked for)
-Our solution involves a visually captivating and interactive CAPTCHA that features random quotes, Morse code hints, and voice confirmations to keep users entertained while they prove they are human!
+1.Humor and Jokes: It responds with light-hearted jokes and playful banter, making interactions enjoyable.
+2.Personalization: By asking for and remembering the user's name, it creates a more connected experience.
+3.Dynamic Conversations: It handles a variety of topics, keeping chats lively and entertaining.
+4.User Engagement: The bot encourages users to participate by asking questions and sharing thoughts, enhancing overall satisfaction.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Languages used: Python
-- Frameworks used: Tkinter
-- Libraries used: PIL, pyttsx3, winsound
-- Tools used: None
-
+- Languages Used: TypeScript, JavaScript
+- Frameworks Used: React
+- Libraries Used: Tailwind CSS, Lucide React (for icons)
+- Tools Used: Vite (for development and bundling), npm (for package management).
 ### Implementation
 For Software:
 # Installation
@@ -36,40 +40,36 @@ pip install pillow pyttsx3
 
 
 # Run
-bash
-python crazy_captcha.py
+Start the development server:
+npm run dev
 
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](screenshot1.png)
+![Screenshot1]()
 This screenshot shows the initial CAPTCHA screen with generated text.
 
-![Screenshot2](screenshot2.png)
+![Screenshot2]()
 Here we see the user input area for entering the CAPTCHA text.
 
-![Screenshot3](screenshot3.png)
+![Screenshot3]()
 This image demonstrates the voice confirmation feature when an incorrect CAPTCHA is entered.
 
-# Diagrams
-![Workflow](workflow_diagram.png)
-This diagram illustrates the workflow of the Crazy CAPTCHA application.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-This video demonstrates the functionality and features of the Crazy CAPTCHA application.
+(https://drive.google.com/file/d/1A_DJ9qG6CpqhooxLk0540zrwlrDjl9fb/view?usp=sharing)
+This video demonstrates the functionality and features of the JokeBot website.
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- Soorya A P: Lead developer and primary implementation of CAPTCHA features.
-- Akshay V S: Contributed to UI design and user experience improvements.
-- Vedha V K: Assisted in testing and provided feedback for usability enhancements.
-
+- Sangeerth PB: Specific contributions, e.g., developed the main chatbot logic
+- Sidharth M: Specific contributions, e.g., designed the UI/UX
+- Soorya Dev: Specific contributions, e.g., handled project documentation and testing.
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
