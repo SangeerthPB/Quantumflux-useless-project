@@ -47,14 +47,19 @@ npm run dev
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1]()
+# Screenshots![WhatsApp Image 2024-11-02 at 10 08 51 PM](https://github.com/user-attachments/assets/24ac20e1-27ee-42f1-aa08-0b579a366708)
+ (Add at least 3)
+![Screenshot1](![WhatsApp Image 2024-11-02 at 10 08 51 PM](https://github.com/user-attachments/assets/ce755b3b-b5c5-422a-8775-f7f2c5c13108)
+)
 This screenshot shows the initial CAPTCHA screen with generated text.
 
-![Screenshot2]()
+![Screenshot2![WhatsApp Image 2024-11-02 at 10 08 51 PM]![WhatsApp Image 2024-11-02 at 10 08 51 PM (1)](https://github.com/user-attachments/assets/87326a9c-ceab-4693-bf0c-d2cf60cd163d)
+
+]()
 Here we see the user input area for entering the CAPTCHA text.
 
-![Screenshot3]()
+![Screenshot3]![WhatsApp Image 2024-11-02 at 10 06 18 PM](https://github.com/user-attachments/assets/91b6cf7c-4246-434a-b9c4-6b96e1156615)
+
 This image demonstrates the voice confirmation feature when an incorrect CAPTCHA is entered.
 
 
